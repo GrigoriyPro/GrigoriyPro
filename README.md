@@ -9,4 +9,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrigoriyPro&theme=2077&utcOffset=8)
 
 <h4>Follow me</h4>
-[![Vk](https://github.com/GrigoriyPro/GrigoriyPro/assets/136812944/ea1f6c3e-104f-4f4c-9dee-79e7d51e74ca)](https://vk.com/sherxd)
+
