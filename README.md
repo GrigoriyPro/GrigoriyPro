@@ -9,4 +9,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrigoriyPro&theme=2077&utcOffset=8)
 
 <h4>Follow me</h4>
-<a href="https://vk.com/sherxd"<i class="fa-brands fa-vk fa-bounce"></i></a>
