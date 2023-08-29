@@ -9,6 +9,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GrigoriyPro&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GrigoriyPro&theme=2077&utcOffset=8)
 
-### Follow me
+### Follow me:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sherxd)
+
+### Game Channel:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@sherxd4232/featured)
